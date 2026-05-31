@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.md_output
+voltage_anchor_*.md
+forward_anchor.md
+.DS_Store
+Thumbs.db
